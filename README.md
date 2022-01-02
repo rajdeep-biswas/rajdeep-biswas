@@ -10,4 +10,6 @@ However, below is some of my utility projects that I committed dedicated time to
 * [Forecasting Algorithms Analysis Pipeline](https://github.com/rajdeep-biswas/excel2plot-pipeline).
 * [COVID-19 India Daily Cases Prediction](https://github.com/rajdeep-biswas/covid19-prediction).
 
+Although, I post most of my code (including Jupyter Notebooks) to my GitHub for purpose of preservation (since I have frustratingly lost code in the past), delve at your own discretion. ⚠️
+
 When not working, I am best known for being a Hollow Knight lore connoisseur, <img src="hk.png" width="15" /> and Rick and Morty fanatic. <img src="rick.png" width="18" />.
