@@ -12,4 +12,6 @@ However, below are some of my utility projects that I dedicated time to make rea
 
 Although, I commit most of my code (including Jupyter Notebooks) to my GitHub for purpose of preservation (since I have frustratingly lost code in the past); if you do want to take a look around, delve at your own discretion. ⚠️
 
+Philosophy and Psychology are two areas I have no academic background in but it's impossible for me to not stay intrigued.  
+
 When not working, I am best known for being a connoisseur of Hollow Knight lore <img src="hk.png" width="15" />, and Rick and Morty fanatic <img src="rick.png" width="18" />.
