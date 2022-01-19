@@ -4,7 +4,7 @@ I am a Data Scientist / Machine Learning Engineer working @ [SAP Labs](https://w
   
 Most of my readable code that I write is for my job; outside of which my work is majorly an undocumented mess :)  
   
-However, below are some of my utility projects that I dedicated time to make readable, and shall present as my portfolio (as is evident, I am not great at showing my work off).  
+However, below are some of my utility projects that I dedicated time to make readable, and shall present as my portfolio (as is evident, I am not great at showing off my work).  
 
 * [Anomaly Detection / Time Series Utility](https://github.com/rajdeep-biswas/Anomaly-Detection-Utility).
 * [Forecasting Algorithms Analysis Pipeline](https://github.com/rajdeep-biswas/excel2plot-pipeline).
