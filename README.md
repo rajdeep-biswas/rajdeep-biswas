@@ -12,6 +12,10 @@ However, below are some of my utility projects that I dedicated time to make rea
 
 I also have my own Python package up on PyPI! `pip install clock-keeper` if you want need some simple timekeeping on your project ([here's the documentation](https://pypi.org/project/clock-keeper/)).
 
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
+<p align="center">
+
 Although, I commit most of my code (including Jupyter Notebooks) to my GitHub for purpose of preservation (since I have frustratingly lost code in the past); if you do want to take a look around, delve at your own discretion. ⚠️
 
 Philosophy and Psychology are two areas I have no academic background in but it's impossible for me to not stay intrigued.  
