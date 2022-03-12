@@ -10,7 +10,7 @@ However, below are some of my utility projects that I dedicated time to make rea
 * [Forecasting Algorithms Analysis Pipeline](https://github.com/rajdeep-biswas/excel2plot-pipeline).
 * [COVID-19 India Daily Cases Prediction](https://github.com/rajdeep-biswas/covid19-prediction).
 
-I also have my own Python package up on PyPI! `pip install clock-keeper` if you want need some simple timekeeping on your project ([here's the documentation](https://pypi.org/project/clock-keeper/)).
+I also have my own Python package up on PyPI! `pip install clock-keeper` if you need some simple timekeeping on your project ([here's the documentation](https://pypi.org/project/clock-keeper/)).
 
 <p align="center">
 	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
